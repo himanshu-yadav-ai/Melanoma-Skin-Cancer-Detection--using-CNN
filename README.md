@@ -1,7 +1,7 @@
 # Skin-Cancer-Detection-using-CNN:
 Building and Optimizing Melanoma Skin Detection Problem through Image Identification and Classification using CNN
 
-# Team Members: Himanshu Yadav, Amit Kumar Chaudhary & Shreeragh Chandrabose 
+#### Team Members: Himanshu Yadav, Amit Kumar Chaudhary & Shreeragh Chandrabose 
 
 
 
