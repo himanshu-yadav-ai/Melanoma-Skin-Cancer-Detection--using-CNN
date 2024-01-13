@@ -48,7 +48,7 @@ Arrange it as arranged in the Report.pdf file.
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-This project was a team effort of Himanshu Yadav, Amit Kumar Chaudhary & Shreeragh Chandrabose; who contributed to many model changes and iterations to get the most optimal accuracy out. It was also guided by the notebook provided Mr. Sayan Dey, Upgrad Instructor that led us to the steps to follow and achieve the best results.
+This project was a team effort of Himanshu Yadav, Amit Kumar Chaudhary & Shreeragh Chandrabose; who contributed to many model changes and iterations to get the most optimal accuracy out. It was also guided by the notebook provider Mr. Sayan Dey, Upgrad Instructor that led us to the steps to follow and achieve the best results.
 
 
 <!-- Optional -->
